@@ -1,8 +1,8 @@
 # l2-database-project
 L2 database project including SQL functions and documentation
-# 📚 Projet Base de Données — Fonctions des Responsables Politiques Français
+#  Projet Base de Données — Fonctions des Responsables Politiques Français
 
-## 📖 Description du projet
+##  Description du projet
 
 Ce projet a été réalisé dans le cadre de la **Licence 2 Informatique — Université Le Havre Normandie (2025-2026)**.
 
@@ -17,7 +17,7 @@ Le projet suit les étapes classiques de conception d'une base de données :
 
 ---
 
-# 🧠 Modélisation
+#  Modélisation
 
 ## Entités principales
 
@@ -69,7 +69,7 @@ Clé primaire composée :
 
 ---
 
-# 🗄️ Structure de la base de données
+#  Structure de la base de données
 
 Tables du projet :
 
@@ -95,7 +95,7 @@ Responsable_Politique
 
 ---
 
-# ⚙️ Technologies utilisées
+#  Technologies utilisées
 
 - SQL  
 - MySQL  
@@ -105,10 +105,10 @@ Responsable_Politique
 
 ---
 
-# 📂 Structure du projet
+#  Structure du projet
 
 ```
-📁 Projet-BDD-G17
+ Projet-BDD-G17
 │
 ├── G17_FonctionMysql.sql
 ├── G17_FonctionPostgr.sql
@@ -125,7 +125,7 @@ Responsable_Politique
 
 ---
 
-# 🚀 Installation et utilisation
+#  Installation et utilisation
 
 ## 1️⃣ Cloner le projet
 
@@ -151,7 +151,7 @@ source G17_FonctionMysql.sql
 
 ---
 
-# 🎯 Objectifs pédagogiques
+#  Objectifs pédagogiques
 
 Ce projet permet de pratiquer :
 
@@ -163,7 +163,7 @@ Ce projet permet de pratiquer :
 
 ---
 
-# 👨‍💻 Équipe du projet — Groupe 17
+#  Équipe du projet — Groupe 17
 
 Projet réalisé par :
 
